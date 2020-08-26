@@ -21,6 +21,7 @@
 		<link rel='stylesheet' type='text/css' href='css/style.css' >
 		<link rel='stylesheet' type='text/css' href='css/slide.css' >
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 		
 	</head>
@@ -86,13 +87,13 @@
 							</a>
 						</li>
 						
-						
+						<!--
 						<li>
 							<a href='#contact' class='section-toggle' data-section='contact' >
 								Assignment
 							</a>
 						</li>
-						
+						-->
 						
 					</ul>
 				</div>
@@ -170,17 +171,13 @@
 										</li>
 											
 										<li>
-											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 4 </a>
+											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 1 </a>
 										</li>
 										
 										<li>
-										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 4 </a>
+										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 2 </a>
 										</li>
-										
-									
-										
-										
-										
+								
 									</ul>
 									
 								</div>
@@ -213,39 +210,17 @@
 									
 									<ul class='info-list' style='margin-top:-50px;' >
 										
-										<li>
+									<li>
 											<strong><h3>TOPIC</h3></strong>
 										</li>
-										
-										<li>
 											
+										<li>
+											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 1 </a>
 										</li>
 										
 										<li>
-											
+										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 2 </a>
 										</li>
-										
-										<li>
-											
-										</li>
-										
-										<li>
-											
-										</li>
-
-										<li>
-											
-										</li>
-
-										<li>
-											
-										</li>
-
-										<li>
-											
-										</li>
-										
-										
 										
 									</ul>
 									
@@ -355,37 +330,17 @@
 							
 							
 							<div class='section-header' >
-								<h2>My <strong class='color' >Works</strong></h2>
+							<h2><strong class='color' >Portolio</strong> Examples </h2>
 							</div>
 							
 							<ul class='portfolio-filters' >
-								<li>
-									<a href='#' class='active' data-group='all' >
-										All
-									</a>
-								</li>
-								<li>
-									<a href='#' data-group='web' >
-										Web
-									</a>
-								</li>
-								<li>
-									<a href='#' data-group='tech' >
-										Tech
-									</a>
-								</li>
-								<li>
-									<a href='#' data-group='photography' >
-										Photography
-									</a>
-								</li>
-							</ul>
 							
 							<ul class='portfolio-items' >
 								
+							<!-- 1 -->
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/1.jpg' alt>
+										<img src='img/t1.jpeg' alt>
 										
 										<div class='overlay' >
 											
@@ -395,20 +350,23 @@
 											
 											<!--project popup-->
 											<div id='popup-1' class='popup-box zoom-anim-dialog mfp-hide' >
+								
 												<figure>
-													
+												<div class="grid-container">
 													<!--project popup image-->
-													<img src='img/portfolio/1.jpg' alt>
-												
+													<img src="img/q.png" alt>
+													<img src="img/t1.jpeg" alt>
+												</div>
 												</figure>
+
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>593021288-0</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														Design by me
 													</p>
 													
 												</div>
@@ -420,32 +378,36 @@
 									</div>
 								</li>
 								
-								<li data-groups='["tech","photography"]' >
+							<!-- 2 -->
+							<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/2.jpg' alt>
+										<img src='img/t1.jpeg' alt>
 										
 										<div class='overlay' >
 											
-											<a href='#popup-2' class='view-project' >
+											<a href='#popup-1' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-2' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-1' class='popup-box zoom-anim-dialog mfp-hide' >
+								
 												<figure>
-													
+												<div class="grid-container">
 													<!--project popup image-->
-													<img src='img/portfolio/2.jpg' alt>
-												
+													<img src="img/q.png" alt>
+													<img src="img/t1.jpeg" alt>
+												</div>
 												</figure>
+
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>593021288-0</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														Design by me
 													</p>
 													
 												</div>
@@ -456,33 +418,38 @@
 										
 									</div>
 								</li>
-								
-								<li data-groups='["web","photography"]' >
+
+								<!-- 3 --> 
+
+								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/3.jpg' alt>
+										<img src='img/t1.jpeg' alt>
 										
 										<div class='overlay' >
 											
-											<a href='#popup-3' class='view-project' >
+											<a href='#popup-1' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-3' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-1' class='popup-box zoom-anim-dialog mfp-hide' >
+								
 												<figure>
-													
+												<div class="grid-container">
 													<!--project popup image-->
-													<img src='img/portfolio/3.jpg' alt>
-												
+													<img src="img/q.png" alt>
+													<img src="img/t1.jpeg" alt>
+												</div>
 												</figure>
+
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>593021288-0</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														Design by me
 													</p>
 													
 												</div>
@@ -494,117 +461,6 @@
 									</div>
 								</li>
 								
-								
-								<li data-groups='["web"]' >
-									<div class='inner' >
-										<img src='img/portfolio/4.jpg' alt>
-										
-										<div class='overlay' >
-											
-											<a href='#popup-4' class='view-project' >
-												View Project
-											</a>
-											
-											<!--project popup-->
-											<div id='popup-4' class='popup-box zoom-anim-dialog mfp-hide' >
-												<figure>
-													
-													<!--project popup image-->
-													<img src='img/portfolio/4.jpg' alt>
-												
-												</figure>
-												<div class='content' >
-													
-													<!--project popup title-->
-													<h4>My Project Title</h4>
-													
-													<!--project popup description-->
-													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
-													</p>
-													
-												</div>
-												
-											</div>
-											
-										</div>
-										
-									</div>
-								</li>
-								
-								<li data-groups='["tech"]' >
-									<div class='inner' >
-										<img src='img/portfolio/5.jpg' alt>
-										
-										<div class='overlay' >
-											
-											<a href='#popup-5' class='view-project' >
-												View Project
-											</a>
-											
-											<!--project popup-->
-											<div id='popup-5' class='popup-box zoom-anim-dialog mfp-hide' >
-												<figure>
-													
-													<!--project popup image-->
-													<img src='img/portfolio/5.jpg' alt>
-												
-												</figure>
-												<div class='content' >
-													
-													<!--project popup title-->
-													<h4>My Project Title</h4>
-													
-													<!--project popup description-->
-													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
-													</p>
-													
-												</div>
-												
-											</div>
-											
-										</div>
-										
-									</div>
-								</li>
-								
-								<li data-groups='["photography"]' >
-									<div class='inner' >
-										<img src='img/portfolio/6.jpg' alt>
-										
-										<div class='overlay' >
-											
-											<a href='#popup-6' class='view-project' >
-												View Project
-											</a>
-											
-											<!--project popup-->
-											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
-												<figure>
-													
-													<!--project popup image-->
-													<img src='img/portfolio/6.jpg' alt>
-												
-												</figure>
-												<div class='content' >
-													
-													<!--project popup title-->
-													<h4>My Project Title</h4>
-													
-													<!--project popup description-->
-													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
-													</p>
-													
-												</div>
-												
-											</div>
-											
-										</div>
-										
-									</div>
-								</li>
 								
 							</ul>
 							
