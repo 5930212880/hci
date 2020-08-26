@@ -1,0 +1,17 @@
+.mySlides {display:none;}
+
+.grid-container {
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: auto auto;
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+  }

@@ -19,6 +19,9 @@
 		<link rel='stylesheet' type='text/css' href='css/owl.carousel.css' >
 		<link rel='stylesheet' type='text/css' href='css/magnific-popup.css' >
 		<link rel='stylesheet' type='text/css' href='css/style.css' >
+		<link rel='stylesheet' type='text/css' href='css/slide.css' >
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 		
 	</head>
 	<body>
@@ -258,7 +261,7 @@
 				
 				
 				<!--=====================================================
-					Resume Section
+					Group Section
 				=====================================================-->
 				<section id='resume' class='section resume-section border-d' >
 					
@@ -268,275 +271,72 @@
 							
 							<div class='section-header' >
 								
-								<h2>My <strong class='color' >Education</strong></h2>
+								<h2><strong class='color' >Group</strong> Examples </h2>
 								
 							</div>
-							
-							<ul class='timeline' >
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								
-								
-							</ul>
-							
+
+						<!-- slide picture -->
+						<!-- 1 -->
+						<div class="w3-container">
+  							<h2>G1</h2>
+  							<p>website for shoes</p>
 						</div>
-						
-					</div>
-					
-					<div class='section-block timeline-block' >
-						
-						<div class='container-fluid' >
-							
-							<div class='section-header' >
-								
-								<h2>My <strong class='color' >Experience</strong></h2>
-								
-							</div>
-							
-							<ul class='timeline' >
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								
-								
-							</ul>
-							
+
+						<div class="w3-content" style="max-width:1200px">
+  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%;display:none">
+  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%">
+  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%;display:none">
+
+  							<div class="w3-row-padding w3-section">
+    							<div class="w3-col s4">
+									<img class="demo w3-opacity w3-hover-opacity-off" 
+									src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
+									onclick="currentDiv(1)">
+    							</div>
+    							<div class="w3-col s4">
+									<img class="demo w3-opacity w3-hover-opacity-off"
+									src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
+									onclick="currentDiv(2)">
+    							</div>
+    							<div class="w3-col s4">
+									  <img class="demo w3-opacity w3-hover-opacity-off" 
+									  src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
+									  onclick="currentDiv(3)">
+    							</div>
+  							</div>
 						</div>
-						
-					</div>
-					
-					<div class='section-block testimonials-block' >
-						
-						<div class='container-fluid' >
-							
-							<div class='section-header' >
-								
-								<h2>My <strong class='color' >Clients</strong></h2>
-								
-							</div>
-							
-							
-							<div class='testimonials-slider' >
-								
-								
-								<div class='testimonial' >
-									
-									<div class='icon' >
-										<i class='ion-quote' ></i>
-									</div>
-									
-									<p>
-										Ei constituam theophrastus per, sea dolorum disputationi in, vel menandri suavitate similique in. Vide assum conceptam eum et. Has postulant vul putate eu. Pro justo aliquando prodesset at.
-									</p>
-									
-									<div class='author' >
-										<h4>Jake Doe</h4>
-										<span>CEO at Company</span>
-									</div>
-									
-								</div>
-								
-								<div class='testimonial' >
-									
-									<div class='icon' >
-										<i class='ion-quote' ></i>
-									</div>
-									
-									<p>
-										Ei constituam theophrastus per, sea dolorum disputationi in, vel menandri suavitate similique in. Vide assum conceptam eum et. Has postulant vul putate eu. Pro justo aliquando prodesset at.
-									</p>
-									
-									<div class='author' >
-										<h4>Jake Doe</h4>
-										<span>CEO at Company</span>
-									</div>
-									
-								</div>
-								
-								
-								<div class='testimonial' >
-									
-									<div class='icon' >
-										<i class='ion-quote' ></i>
-									</div>
-									
-									<p>
-										Ei constituam theophrastus per, sea dolorum disputationi in, vel menandri suavitate similique in. Vide assum conceptam eum et. Has postulant vul putate eu. Pro justo aliquando prodesset at.
-									</p>
-									
-									<div class='author' >
-										<h4>Jake Doe</h4>
-										<span>CEO at Company</span>
-									</div>
-									
-								</div>
-								
-								<div class='testimonial' >
-									
-									<div class='icon' >
-										<i class='ion-quote' ></i>
-									</div>
-									
-									<p>
-										Ei constituam theophrastus per, sea dolorum disputationi in, vel menandri suavitate similique in. Vide assum conceptam eum et. Has postulant vul putate eu. Pro justo aliquando prodesset at.
-									</p>
-									
-									<div class='author' >
-										<h4>Jake Doe</h4>
-										<span>CEO at Company</span>
-									</div>
-									
-								</div>
-								
-								
-								<div class='testimonial' >
-									
-									<div class='icon' >
-										<i class='ion-quote' ></i>
-									</div>
-									
-									<p>
-										Ei constituam theophrastus per, sea dolorum disputationi in, vel menandri suavitate similique in. Vide assum conceptam eum et. Has postulant vul putate eu. Pro justo aliquando prodesset at.
-									</p>
-									
-									<div class='author' >
-										<h4>Jake Doe</h4>
-										<span>CEO at Company</span>
-									</div>
-									
-								</div>
-								
-								<div class='testimonial' >
-									
-									<div class='icon' >
-										<i class='ion-quote' ></i>
-									</div>
-									
-									<p>
-										Ei constituam theophrastus per, sea dolorum disputationi in, vel menandri suavitate similique in. Vide assum conceptam eum et. Has postulant vul putate eu. Pro justo aliquando prodesset at.
-									</p>
-									
-									<div class='author' >
-										<h4>Jake Doe</h4>
-										<span>CEO at Company</span>
-									</div>
-									
-								</div>
-								
-								
-							</div>
-							
+
+
+						<!-- 2 -->
+						<div class="w3-container">
+  							<h2>G2</h2>
+  							<p>website for coffee</p>
+						</div>
+
+						<div class="w3-content" style="max-width:1200px">
+  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%;display:none">
+  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%">
+  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%;display:none">
+
+  							<div class="w3-row-padding w3-section">
+    							<div class="w3-col s4">
+									<img class="demo w3-opacity w3-hover-opacity-off" 
+									src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
+									onclick="currentDiv(1)">
+    							</div>
+    							<div class="w3-col s4">
+									<img class="demo w3-opacity w3-hover-opacity-off"
+									src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
+									onclick="currentDiv(2)">
+    							</div>
+    							<div class="w3-col s4">
+									  <img class="demo w3-opacity w3-hover-opacity-off" 
+									  src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
+									  onclick="currentDiv(3)">
+    							</div>
+  							</div>
+						</div>
+
 						</div>
 						
 					</div>
@@ -828,6 +628,7 @@
 		<script src='js/jquery.magnific-popup.min.js' ></script>
 		<script src='js/validator.min.js' ></script>
 		<script src='js/script.js' ></script>
-		
+		<script src='js/slide.js' ></script>
+
 	</body>
 </html>
