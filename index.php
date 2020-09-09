@@ -147,7 +147,7 @@
 									
 									<div class='intro-btns' >
 										
-										<a href='lecture' class='btn-custom section-toggle' data-section='lecture' >
+										<a href='#lecture' class='btn-custom section-toggle' data-section='lecture' >
 											Lecture
 										</a>
 										
@@ -204,11 +204,11 @@
 										</li>
 											
 										<li>
-											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 1 </a>
+											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">Chapter 1 - HCI </a>
 										</li>
 										
 										<li>
-										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 2 </a>
+										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">Chapter 2 - HCI</a>
 										</li>
 								
 									</ul>
@@ -248,11 +248,11 @@
 										</li>
 											
 										<li>
-											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 1 </a>
+											<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">LAB 1 - HCI</a>
 										</li>
 										
 										<li>
-										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">บทที่ 2 </a>
+										<a href = "/hci/lecture/บทที่ 4 ทรัพยากรการท่องเที่ยว.ppt">LAB 2 - HCI</a>
 										</li>
 										
 									</ul>
@@ -284,66 +284,86 @@
 							</div>
 
 						<!-- slide picture -->
+
+						<!-- 3 -->
+						<div class="w3-container">
+  							<h2>G03</h2>
+  							<p><a href = "g03/Group3/index.html">View More</a></p>
+						</div>
+
+						<div class="w3-row-padding w3-section">
+    							<div class="w3-col s4">
+									<img src="g03/g31.png" style="width:100%" >
+    							</div>
+    							<div class="w3-col s4">
+									<img src="g03/g32.png" style="width:100%">
+    							</div>
+    							<div class="w3-col s4">
+									  <img src="g03/g33.png" style="width:100%">
+    							</div>
+  							</div>
+
+							<!-- 4 -->
+							<div class="w3-container">
+  							<h2>G04</h2>
+  							<p><a href = "g04/ver2/index.html">View More</a></p>
+						</div>
+
+						<div class="w3-row-padding w3-section">
+    							<div class="w3-col s4">
+									<img src="g04/g41.png" style="width:100%" >
+    							</div>
+    							<div class="w3-col s4">
+									<img src="g04/g42.png" style="width:100%">
+    							</div>
+    							<div class="w3-col s4">
+									  <img src="g04/g43.png" style="width:100%">
+    							</div>
+  							</div>
+
+						
+
 						<!-- 1 -->
 						<div class="w3-container">
   							<h2>G09</h2>
   							<p><a href = "g09/index.html">View More</a></p>
 						</div>
 
-						<div class="w3-content" style="max-width:1200px">
-  							<img class="mySlides" src="g09/g91.png" style="width:100%;display:none">
-
   							<div class="w3-row-padding w3-section">
     							<div class="w3-col s4">
-									<img class="demo w3-opacity w3-hover-opacity-off" 
-									src="g09/g92.png" style="width:100%;cursor:pointer" 
-									onclick="currentDiv(1)">
+									<img src="g09/g91.png" style="width:100%" >
     							</div>
     							<div class="w3-col s4">
-									<img class="demo w3-opacity w3-hover-opacity-off"
-									src="g09/g93.png" style="width:100%;cursor:pointer" 
-									onclick="currentDiv(2)">
+									<img src="g09/g92.png" style="width:100%">
     							</div>
     							<div class="w3-col s4">
-									  <img class="demo w3-opacity w3-hover-opacity-off" 
-									  src="g09/g94.png" style="width:100%;cursor:pointer" 
-									  onclick="currentDiv(3)">
+									  <img src="g09/g93.png" style="width:100%">
     							</div>
   							</div>
-						</div>
+					
 
 
 						<!-- 2 -->
 						<div class="w3-container">
-  							<h2>G2</h2>
-  							<p>website for coffee</p>
+  							<h2>G12</h2>
+  							<p><a href = "g12/GOKKU/index.html">View More</a></p>
 						</div>
 
-						<div class="w3-content" style="max-width:1200px">
-  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%;display:none">
-  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%">
-  							<img class="mySlides" src="./img/t1.jpeg" style="width:100%;display:none">
-
-  							<div class="w3-row-padding w3-section">
+						<div class="w3-row-padding w3-section">
     							<div class="w3-col s4">
-									<img class="demo w3-opacity w3-hover-opacity-off" 
-									src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
-									onclick="currentDiv(1)">
+									<img src="g12/g121.png" style="width:100%" >
     							</div>
     							<div class="w3-col s4">
-									<img class="demo w3-opacity w3-hover-opacity-off"
-									src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
-									onclick="currentDiv(2)">
+									<img src="g12/g122.png" style="width:100%">
     							</div>
     							<div class="w3-col s4">
-									  <img class="demo w3-opacity w3-hover-opacity-off" 
-									  src="./img/t1.jpeg" style="width:100%;cursor:pointer" 
-									  onclick="currentDiv(3)">
+									  <img src="g12/g123.png" style="width:100%">
     							</div>
   							</div>
-						</div>
+					
 
 						</div>
+						
 						
 					</div>
 					
@@ -630,7 +650,7 @@
 		<!--=====================================================
 			About Section
 		=====================================================-->
-		<section id='about' class='section about-section border-d' >
+		<section id='about' class='section about-section border-d'>
 					
 			<div class='section-block about-block' >
 				<div class='container-fluid' >
@@ -668,7 +688,7 @@
 									</li>
 										
 									<li>
-										<strong><h4>Product</h4></strong>
+										<strong><h4>Book</h4></strong>
 										<p>การโต้ตอบระหว่างมนุษย์กับคอมพิวเตอร์</p>
 										<img src='img/hci.jpg' style='width:150%'><br><br>
 										<p>เทคโนโลยีการออกแบบเว็บ</p>
