@@ -76,8 +76,8 @@
 						</li>
 
 						<li>
-							<a href='#lecture' class='section-toggle' data-section='leture' >
-								Leture
+							<a href='#lecture' class='section-toggle' data-section='lecture' >
+								Lecture
 							</a>
 						</li>
 
