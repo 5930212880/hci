@@ -88,8 +88,8 @@
 						</li>
 						
 						<li>
-							<a href='#resume' class='section-toggle' data-section='resume' >
-								Group
+							<a href='#project' class='section-toggle' data-section='project' >
+								Project
 							</a>
 						</li>
 						
@@ -155,8 +155,8 @@
 											Lab
 										</a>
 
-										<a href='#resume' class='btn-custom section-toggle' data-section='resume' >
-											Group
+										<a href='#project' class='btn-custom section-toggle' data-section='project' >
+											Project
 										</a>
 
 										<a href='#portfolio' class='btn-custom section-toggle' data-section='portfolio' >
@@ -271,7 +271,7 @@
 				<!--=====================================================
 					Group Section
 				=====================================================-->
-				<section id='resume' class='section resume-section border-d' >
+				<section id='project' class='section resume-section border-d' >
 					
 					<div class='section-block timeline-block' >
 						
@@ -279,7 +279,58 @@
 							
 							<div class='section-header' >
 								
-								<h2><strong class='color' >Group</strong> Examples </h2>
+								<h2><strong class='color' >Human-Computer Interaction</strong></h2>
+								
+							</div>
+							<div class='row' >
+								
+								<div class='col-md-4' >
+									
+									<ul class='info-list' style='margin-top:-50px;' >
+										
+										<li>
+											<strong><h3>Project Show Case</h3></strong>
+										</li>
+											
+										<li>
+										<a href='#resume1' data-section='resume1' >Human-Computer Interaction - 2015</a>
+										</li>
+										
+										<li>
+										<a href='#resume2' data-section='resume2' >Human-Computer Interaction - 2016</a>
+										</li>
+
+										<li>
+										<a href='#resume3' data-section='resume3' >Human-Computer Interaction - 2017</a>
+										</li>
+								
+									</ul>
+									
+								</div>
+							
+								
+							</div>
+
+
+						</div>
+						
+						
+					</div>
+					
+				</section>
+
+				<!--=====================================================
+					2015
+				=====================================================-->
+				<section id='resume1' class='section resume-section border-d' >
+					
+					<div class='section-block timeline-block' >
+						
+						<div class='container-fluid' >
+							
+							<div class='section-header' >
+								
+								<h2><strong class='color' >Project</strong> Show Case 2015 </h2>
 								
 							</div>
 
@@ -288,6 +339,8 @@
 						<!-- 3 -->
 						<div class="w3-container">
   							<h2>G03</h2>
+							<p>เป็นหมวกกันน็อคที่มากความสามารถ โดยไม่ได้เป็นแค่เครื่องป้องกันอันตรายที่เกิดกับศีรษะ 
+							แต่ยังเสริมฟีเจอร์ต่างๆที่น่าสนใจ และที่สำคัญสามารถตามหาได้หากหายหรือโดนขโมย</p>
   							<p><a href = "g03/Group3/index.html">View More</a></p>
 						</div>
 
@@ -306,7 +359,8 @@
 							<!-- 4 -->
 							<div class="w3-container">
   							<h2>G04</h2>
-  							<p><a href = "g04/ver2/index.html">View More</a></p>
+							<p>"Easy Eat" แอปพลิเคชันที่จะช่วยอำนวยความสะดวกในการให้บริการ ซื้อ-ขายอาหาร ที่ศูนย์อาหารคอมเพล็ก.</p>
+  							<!-- <p><a href = "g04/ver2/index.html">View More</a></p> -->
 						</div>
 
 						<div class="w3-row-padding w3-section">
@@ -326,7 +380,8 @@
 						<!-- 1 -->
 						<div class="w3-container">
   							<h2>G09</h2>
-  							<p><a href = "g09/index.html">View More</a></p>
+							<p>แอปพลิเคชันลดพฤติกรรมการ้โทรศัพท์โดยการแจ้งเตือนเวลาที่เหมาะสมในการใช้งานให้ผู้ใช้รู้ว่าควรใช้เวลามากน้อยเพียงใด</p>
+  							<!-- <p><a href = "g09/index.html">View More</a></p> -->
 						</div>
 
   							<div class="w3-row-padding w3-section">
@@ -346,7 +401,8 @@
 						<!-- 2 -->
 						<div class="w3-container">
   							<h2>G12</h2>
-  							<p><a href = "g12/GOKKU/index.html">View More</a></p>
+							<p>แอพพลิเคชันที่ตอบสนองช่วยแก้ปัญหาการเดินทางที่ไม่สะดวกและยังช่วยลดจำนวนยานพาหนะบนท้อง ถนนให้การจราจรแออัดลดลงได้ด้วย</p>
+  							<!-- <p><a href = "g12/GOKKU/index.html">View More</a></p> -->
 						</div>
 
 						<div class="w3-row-padding w3-section">
@@ -368,6 +424,14 @@
 					</div>
 					
 				</section>
+				
+
+
+
+
+
+
+
 				
 				
 				<!--=====================================================
