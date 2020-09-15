@@ -730,16 +730,14 @@
 					</div>
 							
 						<div class='row'>
+						<img src='img/cvs.png' style='width:50%'><br><br><br><br>
 								
 							<div class='col-md-4'>
 									
 								<ul class='info-list' style='margin-top:-50px;' >
-										
-									<li>
 										<!-- <strong><h4>Sumonta Kasemvilas</h4></strong> -->
-										<img src='img/cv.png' style='width:50%'><br><br>
 										<img src='img/download.png' style='width:10%'>&nbsp;<a href = "/hci/lecture/CVSumonta.pdf">Personnel information/CV</a>
-									</li>
+									
 											
 									<li>
 										<strong><h4>Contact</h4></strong>
@@ -755,8 +753,9 @@
 										<strong><h4>Book</h4></strong>
 										<p>การโต้ตอบระหว่างมนุษย์กับคอมพิวเตอร์</p>
 										<img src='img/hci.jpg' style='width:150%'><br><br>
-										<p>เทคโนโลยีการออกแบบเว็บ</p>
-										<img src='img/web.jpg' style='width:150%'><br><br>
+										<!-- <p>เทคโนโลยีการออกแบบเว็บ</p>
+										<img src='img/web.jpg' style='width:150%'> -->
+										<br>
 										<p>วางจำหน่ายที่ ศูนย์สื่อการเรียนรู้มหาวิทยาลัยขอนแก่น<br>
 										เลขที่ 123 อาคารคอมเพล็กซ์ มหาวิทยาลัยขอนแก่น</p>
 
