@@ -289,19 +289,19 @@
 									<ul class='info-list' style='margin-top:-50px;' >
 										
 										<li>
-											<strong><h3>Project Show Case</h3></strong>
+											<strong><h3>Group Project</h3></strong>
 										</li>
 											
 										<li>
-										<a href='#resume1' data-section='resume1' >Human-Computer Interaction - 2015</a>
+										<a href='#resume1' data-section='resume1' >Group Project - 2014</a>
 										</li>
 										
 										<li>
-										<a href='#resume2' data-section='resume2' >Human-Computer Interaction - 2016</a>
+										<a href='#resume2' data-section='resume2' >Group Project - 2015</a>
 										</li>
 
 										<li>
-										<a href='#resume3' data-section='resume3' >Human-Computer Interaction - 2017</a>
+										<a href='#resume3' data-section='resume3' >Group Project - 2016</a>
 										</li>
 								
 									</ul>
@@ -319,10 +319,11 @@
 					
 				</section>
 
+
 				<!--=====================================================
 					2015
 				=====================================================-->
-				<section id='resume1' class='section resume-section border-d' >
+				<section id='resume3' class='section resume-section border-d' >
 					
 					<div class='section-block timeline-block' >
 						
@@ -330,7 +331,7 @@
 							
 							<div class='section-header' >
 								
-								<h2><strong class='color' >Project</strong> Show Case 2015 </h2>
+								<h2><strong class='color' >Group</strong> Project 2016 </h2>
 								
 							</div>
 
@@ -346,13 +347,13 @@
 
 						<div class="w3-row-padding w3-section">
     							<div class="w3-col s4">
-									<img src="g03/g31.png" style="width:100%" >
+									<img src="G2015/g03/g31.png" style="width:100%" >
     							</div>
     							<div class="w3-col s4">
-									<img src="g03/g32.png" style="width:100%">
+									<img src="G2015/g03/g32.png" style="width:100%">
     							</div>
     							<div class="w3-col s4">
-									  <img src="g03/g33.png" style="width:100%">
+									  <img src="G2015/g03/g33.png" style="width:100%">
     							</div>
   							</div>
 
@@ -365,13 +366,13 @@
 
 						<div class="w3-row-padding w3-section">
     							<div class="w3-col s4">
-									<img src="g04/g41.png" style="width:100%" >
+									<img src="G2015/g04/g41.png" style="width:100%" >
     							</div>
     							<div class="w3-col s4">
-									<img src="g04/g42.png" style="width:100%">
+									<img src="G2015/g04/g42.png" style="width:100%">
     							</div>
     							<div class="w3-col s4">
-									  <img src="g04/g43.png" style="width:100%">
+									  <img src="G2015/g04/g43.png" style="width:100%">
     							</div>
   							</div>
 
@@ -386,13 +387,13 @@
 
   							<div class="w3-row-padding w3-section">
     							<div class="w3-col s4">
-									<img src="g09/g91.png" style="width:100%" >
+									<img src="G2015/g09/g91.png" style="width:100%" >
     							</div>
     							<div class="w3-col s4">
-									<img src="g09/g92.png" style="width:100%">
+									<img src="G2015/g09/g92.png" style="width:100%">
     							</div>
     							<div class="w3-col s4">
-									  <img src="g09/g93.png" style="width:100%">
+									  <img src="G2015/g09/g93.png" style="width:100%">
     							</div>
   							</div>
 					
@@ -407,13 +408,13 @@
 
 						<div class="w3-row-padding w3-section">
     							<div class="w3-col s4">
-									<img src="g12/g121.png" style="width:100%" >
+									<img src="G2015/g12/g121.png" style="width:100%" >
     							</div>
     							<div class="w3-col s4">
-									<img src="g12/g122.png" style="width:100%">
+									<img src="G2015/g12/g122.png" style="width:100%">
     							</div>
     							<div class="w3-col s4">
-									  <img src="g12/g123.png" style="width:100%">
+									  <img src="G2015/g12/g123.png" style="width:100%">
     							</div>
   							</div>
 					
@@ -444,8 +445,55 @@
 						<div class='container-fluid' >
 							
 							
+						<div class='section-header' >
+								
+								<h2><strong class='color' >Human-Computer Interaction</strong></h2>
+								
+							</div>
+							<div class='row' >
+								
+								<div class='col-md-4' >
+									
+									<ul class='info-list' style='margin-top:-50px;' >
+										
+										<li>
+											<strong><h3>Digital Portfolio</h3></strong>
+										</li>
+											
+										<li>
+										<a href='#portfolio1' data-section='portfolio1' >Digital Portfolio - 2015</a>
+										</li>
+
+										<li>
+										<a href='#portfolio2' data-section='portfolio2' >Digital Portfolio - 2018</a>
+										</li>
+								
+									</ul>
+									
+								</div>
+							
+								
+							</div>
+
+						</div>
+					
+					</div>
+					
+				</section>
+
+			<!--=====================================================
+					2017
+			=====================================================-->
+
+				<section id='portfolio2' class='section portfolio-section border-d' >
+					
+					<div class='section-block portfolio-block' >
+						
+						<div class='container-fluid' >
+							
+							
 							<div class='section-header' >
-							<h2><strong class='color' >Portolio</strong> Examples </h2>
+							<h2><strong class='color' >Digital</strong> Portfolio 2018 </h2>
 							</div>
 							
 							<ul class='portfolio-filters' >
@@ -455,7 +503,7 @@
 							<!-- 1 -->
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='6030211966/ex21.png' alt>
+										<img src='P2017/6030211966/ex21.png' alt>
 										
 										<div class='overlay' >
 											
@@ -469,8 +517,8 @@
 												<figure>
 												<div class="grid-container">
 													<!--project popup image-->
-													<img src="6030211966/ex22.png" style="width:100%" alt>
-													<img src="6030211966/ex23.png" alt>
+													<img src="P2017/6030211966/ex22.png" style="width:100%" alt>
+													<img src="P2017/6030211966/ex23.png" alt>
 												</div>
 												</figure>
 
@@ -481,7 +529,7 @@
 													
 													<!--project popup description-->
 													<p>
-													<a href = "6030211966/6030211966.pdf">View More</a>
+													<a href = "P2017/6030211966/6030211966.pdf">View More</a>
 													</p>
 													
 												</div>
@@ -496,7 +544,7 @@
 							<!-- 2 -->
 							<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='6030208141/ex41.png' alt>
+										<img src='P2017/6030208141/ex41.png' alt>
 										
 										<div class='overlay' >
 											
@@ -510,8 +558,8 @@
 												<figure>
 												<div class="grid-container">
 													<!--project popup image-->
-													<img src="6030208141/ex42.png" alt>
-													<img src="6030208141/ex43.png" alt>
+													<img src="P2017/6030208141/ex42.png" alt>
+													<img src="P2017/6030208141/ex43.png" alt>
 												</div>
 												</figure>
 
@@ -522,7 +570,7 @@
 													
 													<!--project popup description-->
 													<p>
-													<a href = "6030208141/6030208141.pdf">View More</a>
+													<a href = "P2017/6030208141/6030208141.pdf">View More</a>
 													</p>
 													
 												</div>
@@ -538,7 +586,7 @@
 
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='6030203353/ex1.png' alt>
+										<img src='P2017/6030203353/ex1.png' alt>
 										
 										<div class='overlay' >
 											
@@ -552,8 +600,8 @@
 												<figure>
 												<div class="grid-container">
 													<!--project popup image-->
-													<img src="6030203353/ex12.png" alt>
-													<img src="6030203353/ex13.png" alt>
+													<img src="P2017/6030203353/ex12.png" alt>
+													<img src="P2017/6030203353/ex13.png" alt>
 												</div>
 												</figure>
 
@@ -564,7 +612,7 @@
 													
 													<!--project popup description-->
 													<p>
-													<a href = "6030203353/PORTFOLIO/index.html">View More</a>
+													<a href = "P2017/6030203353/PORTFOLIO/index.html">View More</a>
 													</p>
 													
 												</div>
@@ -580,7 +628,7 @@
 
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='6030217166/ex31.png' alt>
+										<img src='P2017/6030217166/ex31.png' alt>
 										
 										<div class='overlay' >
 											
@@ -594,8 +642,8 @@
 												<figure>
 												<div class="grid-container">
 													<!--project popup image-->
-													<img src="6030217166/ex32.png" alt>
-													<img src="6030217166/ex33.png" alt>
+													<img src="P2017/6030217166/ex32.png" alt>
+													<img src="P2017/6030217166/ex33.png" alt>
 												</div>
 												</figure>
 
@@ -605,9 +653,9 @@
 													<h4>603021716-6</h4>
 													
 													<!--project popup description-->
-													<p>
-													<a href = "6030217166/6030217166/digitalportfolio.html">View More</a>
-													</p>
+													<!-- <p>
+													<a href = "P2017/6030217166/6030217166/digitalportfolio.html">View More</a>
+													</p> -->
 													
 												</div>
 												
@@ -622,7 +670,7 @@
 
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='6030203361/ex5.png' alt>
+										<img src='P2017/6030203361/ex5.png' alt>
 										
 										<div class='overlay' >
 											
@@ -636,8 +684,8 @@
 												<figure>
 												<div class="grid-container">
 													<!--project popup image-->
-													<img src="6030203361/ex51.png" alt>
-													<img src="6030203361/ex52.png" alt>
+													<img src="P2017/6030203361/ex51.png" alt>
+													<img src="P2017/6030203361/ex52.png" alt>
 												</div>
 												</figure>
 
@@ -647,9 +695,9 @@
 													<h4>603020336-1</h4>
 													
 													<!--project popup description-->
-													<p>
-													<a href = "6030203361/6030203361.pdf">View More</a>
-													</p>
+													<!-- <p>
+													<a href = "P2017/6030203361/6030203361.pdf">View More</a>
+													</p> -->
 													
 												</div>
 												
@@ -664,7 +712,7 @@
 
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='6030217255/ex6.png' alt>
+										<img src='P2017/6030217255/ex6.png' alt>
 										
 										<div class='overlay' >
 											
@@ -678,8 +726,8 @@
 												<figure>
 												<div class="grid-container">
 													<!--project popup image-->
-													<img src="6030217255/ex61.png" alt>
-													<img src="6030217255/ex62.png" alt>
+													<img src="P2017/6030217255/ex61.png" alt>
+													<img src="P2017/6030217255/ex62.png" alt>
 												</div>
 												</figure>
 
@@ -689,9 +737,9 @@
 													<h4>603021725-5</h4>
 													
 													<!--project popup description-->
-													<p>
-													<a href = "6030217255/DigitalPortfolio.pdf">View More</a>
-													</p>
+													<!-- <p>
+													<a href = "P2017/6030217255/DigitalPortfolio.pdf">View More</a>
+													</p> -->
 													
 												</div>
 												
@@ -710,6 +758,7 @@
 					</div>
 					
 				</section>
+
 
 		<!--=====================================================
 			About Section
