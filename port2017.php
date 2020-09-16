@@ -124,59 +124,6 @@
 				Sections
 			=====================================================-->
 			<div class='sections' >
-			
-				<!--=====================================================
-					Main Section
-				=====================================================-->
-				<section id='intro' class='section section-main active' >
-					
-					<div class='container-fluid' >
-						
-						<div class='v-align' >
-							<div class='inner' >
-								<div class='intro-text' >
-									
-									<h1>Human-Computer Interaction</h1>
-									
-									<p>
-										Department of Computer Science , Faculty of Science , Khonkaen University
-									</p>
-									<p>
-										Asst. Prof. Sumonta Kasemvilas, Ph.D.
-									</p>
-									
-									<div class='intro-btns' >
-										
-										<a href='#lecture' class='btn-custom section-toggle' data-section='lecture' >
-											Lecture
-										</a>
-										
-										<a href='#lab' class='btn-custom section-toggle' data-section='lab' >
-											Lab
-										</a>
-
-										<a href='#project' class='btn-custom section-toggle' data-section='project' >
-											Project
-										</a>
-
-										<a href='#portfolio' class='btn-custom section-toggle' data-section='portfolio' >
-											portfolio
-										</a>
-
-										<a href='#about' class='btn-custom section-toggle' data-section='about' >
-											About
-										</a>
-										
-									</div>
-									
-								</div>
-							</div>
-							
-						</div>
-						
-					</div>
-				
-				</section>
 				
 				
 				<!--=====================================================
@@ -293,15 +240,15 @@
 										</li>
 											
 										<li>
-										<a href='#resume1' data-section='resume1' target="_blank">Group Project - 2013</a>
+										<a href='#resume1' data-section='resume1' >Group Project - 2013</a>
 										</li>
 										
 										<li>
-										<a href='#resume2' data-section='resume2' target="_blank">Group Project - 2014</a>
+										<a href='#resume2' data-section='resume2' >Group Project - 2014</a>
 										</li>
 
 										<li>
-										<a href='#resume3' data-section='resume3' target="_blank">Group Project - 2016</a>
+										<a href='#resume3' data-section='resume3' >Group Project - 2016</a>
 										</li>
 								
 									</ul>
@@ -428,6 +375,13 @@
 				
 
 
+
+
+
+
+
+				
+				
 				<!--=====================================================
 					Portfolio Section
 				=====================================================-->
@@ -473,6 +427,287 @@
 					</div>
 					
 				</section>
+
+
+        <!--=====================================================
+			2017
+		=====================================================-->
+        <section id='portfolio' class='section portfolio-section border-d' >
+					
+					<div class='section-block portfolio-block' >
+						
+						<div class='container-fluid' >
+							
+							
+							<div class='section-header' >
+							<h2><strong class='color' >Portolio</strong> Examples </h2>
+							</div>
+							
+							<ul class='portfolio-filters' >
+							
+							<ul class='portfolio-items' >
+								
+							<!-- 1 -->
+								<li data-groups='["web","tech"]' >
+									<div class='inner' >
+										<img src='6030211966/ex21.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-1' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-1' class='popup-box zoom-anim-dialog mfp-hide' >
+								
+												<figure>
+												<div class="grid-container">
+													<!--project popup image-->
+													<img src="6030211966/ex22.png" style="width:100%" alt>
+													<img src="6030211966/ex23.png" alt>
+												</div>
+												</figure>
+
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>603021196-6</h4>
+													
+													<!--project popup description-->
+													<p>
+													<a href = "6030211966/6030211966.pdf">View More</a>
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+								
+							<!-- 2 -->
+							<li data-groups='["web","tech"]' >
+									<div class='inner' >
+										<img src='6030208141/ex41.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-2' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-2' class='popup-box zoom-anim-dialog mfp-hide' >
+								
+												<figure>
+												<div class="grid-container">
+													<!--project popup image-->
+													<img src="6030208141/ex42.png" alt>
+													<img src="6030208141/ex43.png" alt>
+												</div>
+												</figure>
+
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>603020814-1</h4>
+													
+													<!--project popup description-->
+													<p>
+													<a href = "6030208141/6030208141.pdf">View More</a>
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+
+								<!-- 3 --> 
+
+								<li data-groups='["web","tech"]' >
+									<div class='inner' >
+										<img src='6030203353/ex1.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-3' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-3' class='popup-box zoom-anim-dialog mfp-hide' >
+								
+												<figure>
+												<div class="grid-container">
+													<!--project popup image-->
+													<img src="6030203353/ex12.png" alt>
+													<img src="6030203353/ex13.png" alt>
+												</div>
+												</figure>
+
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>603020335-3</h4>
+													
+													<!--project popup description-->
+													<p>
+													<a href = "6030203353/PORTFOLIO/index.html">View More</a>
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+
+								<!-- 4 --> 
+
+								<li data-groups='["web","tech"]' >
+									<div class='inner' >
+										<img src='6030217166/ex31.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-4' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-4' class='popup-box zoom-anim-dialog mfp-hide' >
+								
+												<figure>
+												<div class="grid-container">
+													<!--project popup image-->
+													<img src="6030217166/ex32.png" alt>
+													<img src="6030217166/ex33.png" alt>
+												</div>
+												</figure>
+
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>603021716-6</h4>
+													
+													<!--project popup description-->
+													<p>
+													<a href = "6030217166/6030217166/digitalportfolio.html">View More</a>
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+
+								<!-- 5 --> 
+
+								<li data-groups='["web","tech"]' >
+									<div class='inner' >
+										<img src='6030203361/ex5.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-5' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-5' class='popup-box zoom-anim-dialog mfp-hide' >
+								
+												<figure>
+												<div class="grid-container">
+													<!--project popup image-->
+													<img src="6030203361/ex51.png" alt>
+													<img src="6030203361/ex52.png" alt>
+												</div>
+												</figure>
+
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>603020336-1</h4>
+													
+													<!--project popup description-->
+													<p>
+													<a href = "6030203361/6030203361.pdf">View More</a>
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+
+								<!-- 6 --> 
+
+								<li data-groups='["web","tech"]' >
+									<div class='inner' >
+										<img src='6030217255/ex6.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-6' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
+								
+												<figure>
+												<div class="grid-container">
+													<!--project popup image-->
+													<img src="6030217255/ex61.png" alt>
+													<img src="6030217255/ex62.png" alt>
+												</div>
+												</figure>
+
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>603021725-5</h4>
+													
+													<!--project popup description-->
+													<p>
+													<a href = "6030217255/DigitalPortfolio.pdf">View More</a>
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+								
+								
+							</ul>
+							
+						</div>
+					
+					</div>
+					
+				</section>
+
+
+
 
 
 
