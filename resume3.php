@@ -124,57 +124,13 @@
 				Sections
 			=====================================================-->
 			<div class='sections' >
-			
+				
 				<!--=====================================================
 					Main Section
 				=====================================================-->
 				<section id='intro' class='section section-main active' >
 					
-					<div class='container-fluid' >
-						
-						<div class='v-align' >
-							<div class='inner' >
-								<div class='intro-text' >
-									
-									<h1>Human-Computer Interaction</h1>
-									
-									<p>
-										Department of Computer Science , Faculty of Science , Khonkaen University
-									</p>
-									<p>
-										Asst. Prof. Sumonta Kasemvilas, Ph.D.
-									</p>
-									
-									<div class='intro-btns' >
-										
-										<a href='#lecture' class='btn-custom section-toggle' data-section='lecture' >
-											Lecture
-										</a>
-										
-										<a href='#lab' class='btn-custom section-toggle' data-section='lab' >
-											Lab
-										</a>
-
-										<a href='#project' class='btn-custom section-toggle' data-section='project' >
-											Project
-										</a>
-
-										<a href='#portfolio' class='btn-custom section-toggle' data-section='portfolio' >
-											portfolio
-										</a>
-
-										<a href='#about' class='btn-custom section-toggle' data-section='about' >
-											About
-										</a>
-										
-									</div>
-									
-								</div>
-							</div>
-							
-						</div>
-						
-					</div>
+				
 				
 				</section>
 				
@@ -293,16 +249,19 @@
 										</li>
 											
 										<li>
-										<a href='#resume1' data-section='resume1' target="_blank">Group Project - 2013</a>
+										<a href='#resume1' data-section='resume1' >Group Project - 2013</a>
 										</li>
 										
 										<li>
-										<a href='#resume2' data-section='resume2' target="_blank">Group Project - 2014</a>
+										<a href='#resume2' data-section='resume2' >Group Project - 2014</a>
 										</li>
 
 										<li>
-										<a href='#resume3' data-section='resume3' target="_blank">Group Project - 2016</a>
+										<a href='#resume3' data-section='resume3' >Group Project - 2016</a>
 										</li>
+
+									
+		
 								
 									</ul>
 									
@@ -428,6 +387,13 @@
 				
 
 
+
+
+
+
+
+				
+				
 				<!--=====================================================
 					Portfolio Section
 				=====================================================-->
