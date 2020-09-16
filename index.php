@@ -293,11 +293,11 @@
 										</li>
 											
 										<li>
-										<a href='#resume1' data-section='resume1' >Group Project - 2014</a>
+										<a href='#resume1' data-section='resume1' >Group Project - 2013</a>
 										</li>
 										
 										<li>
-										<a href='#resume2' data-section='resume2' >Group Project - 2015</a>
+										<a href='#resume2' data-section='resume2' >Group Project - 2014</a>
 										</li>
 
 										<li>
@@ -321,7 +321,7 @@
 
 
 				<!--=====================================================
-					2015
+					2016
 				=====================================================-->
 				<section id='resume3' class='section resume-section border-d' >
 					
@@ -461,11 +461,11 @@
 										</li>
 											
 										<li>
-										<a href='#portfolio1' data-section='portfolio1' >Digital Portfolio - 2015</a>
+										<a href='#portfolio1' data-section='portfolio1' >Digital Portfolio - 2014</a>
 										</li>
 
 										<li>
-										<a href='#portfolio2' data-section='portfolio2' >Digital Portfolio - 2018</a>
+										<a href='#portfolio2' data-section='portfolio2' >Digital Portfolio - 2017</a>
 										</li>
 								
 									</ul>
@@ -493,7 +493,7 @@
 							
 							
 							<div class='section-header' >
-							<h2><strong class='color' >Digital</strong> Portfolio 2018 </h2>
+							<h2><strong class='color' >Digital</strong> Portfolio 2017 </h2>
 							</div>
 							
 							<ul class='portfolio-filters' >
